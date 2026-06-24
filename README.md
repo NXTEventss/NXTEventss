@@ -1,16 +1,20 @@
-## Hi there 👋
+# NXT Event Australia
 
-<!--
-**NXTEventss/NXTEventss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Premium Event Furniture Hire Across Australia
 
-Here are some ideas to get you started:
+## Services
+- Bar Stools Hire
+- Wedding Furniture Hire
+- Exhibition Furniture Hire
+- Corporate Event Furniture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website
+https://nxtevent.com.au/
+
+## Bar Stools Collection
+https://nxtevent.com.au/product-category/bar-stools/
+
+## Contact Us
+https://nxtevent.com.au/contact-us/
+
+NXT Event Australia provides premium event furniture and equipment hire services throughout Australia.
